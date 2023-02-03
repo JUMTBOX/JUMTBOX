@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="css3" src="src="https://img.shields.io/badge/-CSS3-2018FF?style=flat-square&logo=CSS3&logoColor=white" />
+<img alt="css3" src="https://img.shields.io/badge/-CSS3-2018FF?style=flat-square&logo=CSS3&logoColor=white"/>
 <!--
 **JUMTBOX/JUMTBOX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
