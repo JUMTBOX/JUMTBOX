@@ -9,7 +9,7 @@
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
         
         
-        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjey12&show_icons=true&theme=radical)
+        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUMTBOX&show_icons=true&theme=radical)
 <!--
 **JUMTBOX/JUMTBOX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
