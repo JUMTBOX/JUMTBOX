@@ -7,9 +7,9 @@
 <img alt="Bootsrap" src="https://img.shields.io/badge/-Bootstrap-5749BE?style=flat-square&logo=Bootstrap&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-430098??style=flat-square&logo=javascript&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-        
-        
-        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUMTBOX&show_icons=true&theme=radical)
+ <br/>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=JUMTBOX&show_icons=true&theme=radical&card_width=400"/>
 <!--
 **JUMTBOX/JUMTBOX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
