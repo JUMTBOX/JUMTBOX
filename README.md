@@ -1,7 +1,7 @@
-<h1>안녕하세요 👋<h1/>
+<h1>안녕하세요 👋<h1>
   <p>프론트엔드를 공부중인 Serum...
-    <h3>진짜 사용할 수 있는 Stack들<h3/>
-      <p/>
+    <h4>진짜 사용할 수 있는 Stack들<h4>
+      <p>
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="css3" src="https://img.shields.io/badge/-CSS3-2018FF?style=flat-square&logo=CSS3&logoColor=white"/>
 <img alt="Bootsrap" src="https://img.shields.io/badge/-Bootstrap-5749BE?style=flat-square&logo=Bootstrap&logoColor=white" />
