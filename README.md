@@ -14,6 +14,7 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=JUMTBOX&show_icons=true&theme=radical&card_width=400"/>
  </div>
+      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUMTBOX)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JUMTBOX/JUMTBOX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
