@@ -1,5 +1,5 @@
 <h1>안녕하세요 👋<h1>
-  <p>프론트엔드를 공부중인 SERUM
+  <p>성장의 속도가 남다른 SERUM 입니다.
     <h4>진짜 사용할 수 있는 Stack들<h4>
       <p>
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
