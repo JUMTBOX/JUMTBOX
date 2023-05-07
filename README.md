@@ -9,7 +9,7 @@
 <img alt ="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white">
 <img alt ="node" src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=node&logoColor=white">
 <img alt ="styled-components" src="https://img.shields.io/badge/-Styledcomponents-DB7093?style=flat-square&logo=node&logoColor=white">
-<img alt ="typescript" src="https://img.shields.io/badge/-Typescript-DB7093?style=flat-square&logo=node&logoColor=white">
+<img alt ="typescript" src="https://img.shields.io/badge/-Typescript-20A4F3?style=flat-square&logo=typescript&logoColor=white">
 <br/>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=JUMTBOX&show_icons=true&theme=dark&card_width=400"/>
