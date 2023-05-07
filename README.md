@@ -4,12 +4,12 @@
       <p>
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="css3" src="https://img.shields.io/badge/-CSS3-2018FF?style=flat-square&logo=CSS3&logoColor=white"/>
-<img alt="Bootsrap" src="https://img.shields.io/badge/-Bootstrap-5749BE?style=flat-square&logo=Bootstrap&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-430098??style=flat-square&logo=javascript&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt ="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white">
 <img alt ="node" src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=node&logoColor=white">
 <img alt ="styled-components" src="https://img.shields.io/badge/-Styledcomponents-DB7093?style=flat-square&logo=node&logoColor=white">
+<img alt ="typescript" src="https://img.shields.io/badge/-Typescript-DB7093?style=flat-square&logo=node&logoColor=white">
 <br/>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=JUMTBOX&show_icons=true&theme=dark&card_width=400"/>
