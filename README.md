@@ -12,7 +12,7 @@
   <img alt ="typescript" src="https://img.shields.io/badge/-Typescript-20A4F3?style=flat-square&logo=typescript&logoColor=white">  
  <h4> Back-End <h4>
  <img src="https://img.shields.io/badge/Node.js-69cf00?style=flat-square&logo=Node.js&logoColor=white"/>
- <h4> DB <h4> 
+ <h4> DataBase <h4> 
    <img alt ="mongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
    <img alt ="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> 
  <h4> Tools <h4>
