@@ -7,7 +7,7 @@
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-2018FF?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-430098??style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffd166??style=flat-square&logo=javascript&logoColor=white" />
   <img alt ="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white">
   <img alt ="typescript" src="https://img.shields.io/badge/-Typescript-20A4F3?style=flat-square&logo=typescript&logoColor=white">  
  <h4> Back-End <h4>
