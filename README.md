@@ -17,7 +17,6 @@
  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/>
 <br/>
-<br/>   
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=JUMTBOX&show_icons=true&theme=dark&card_width=400"/>
  </div>
