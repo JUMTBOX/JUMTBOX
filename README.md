@@ -1,6 +1,6 @@
 <h2>안녕하세요👋<h2>
   <p>
-    🌱 I’m currently learning Spring FrameWork...
+    🌱 I’m currently learning Spring FrameWork && JAVA...
     <h3>Stacks<h3>
       <p>
 <h4> Front-End <h4> 
