@@ -1,6 +1,6 @@
 <h2>안녕하세요👋<h2>
   <p>
-    🌱 I’m currently learning Spring Boot3 & JAVA 8? 11? 21?
+    🌱 I’m currently learning Spring Batch 3 & Concurrent Programming
   <p>
 
       
