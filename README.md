@@ -1,6 +1,6 @@
 <h2>안녕하세요👋<h2>
   <p>
-    🌱 I’m currently learning Spring Batch 3 & Concurrent Programming
+    🌱 I’m currently learning TypeScript 
   <p>
 
       
