@@ -1,8 +1,4 @@
-<h2>안녕하세요👋<h2>
-  <p>
-    🌱 I’m currently learning TypeScript & Next.js
-  <p>
-
+<h3>👋</h2>
       
 <!--
 **JUMTBOX/JUMTBOX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
